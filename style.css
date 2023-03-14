@@ -1,0 +1,25 @@
+    .apple {
+        background-color: palevioletred !important;
+    }
+    
+    .banana {
+        background-color: yellow !important;
+    }
+    
+    .orange {
+        background-color: orangered !important;
+    }
+    
+    .grapes {
+        background-color: purple !important;
+    }
+    
+    .watermelon {
+        background-color: red !important;
+    }
+    
+    #fruits {
+        margin-top: 20px !important;
+        background-color: beige;
+        height: 25px;
+    }
